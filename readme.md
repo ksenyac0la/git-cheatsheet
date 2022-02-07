@@ -8,7 +8,7 @@ lICENSE : [MIT](/license.md)
 ---
 
 ### Содержание:
-1. [git-протокол](./protokol.md)
+1. [git-протокол](./protocol.md)
 2. [git add](./add.md)
 
 
